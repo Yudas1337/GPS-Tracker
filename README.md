@@ -1,5 +1,5 @@
 # GPS TRACKER : 
-GPS TRACKER is a tools coded by PHP for tracking someone location using javascript geolocation with cli mode and using short url from bit.ly api to social engineering the victim .
+GPS TRACKER is a tools coded by PHP and Python for tracking someone location using javascript geolocation with cli mode and using short url from bit.ly api to social engineering the victim .
 
 # Features :
 * Short Url from bit.ly
